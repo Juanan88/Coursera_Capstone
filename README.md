@@ -6,5 +6,5 @@ This repository is mainly used for the Capstone project in Applied Data Science 
 This includes various notebooks, reports and the complete data science project.
 
 ## Content
-* [Hello World Capstone Project](Hello-World-Capstone-Project.ipynb): "Hello World" Notebook
-* [Segmenting and Clustering Neighborhoods in Toronto](Segmenting-and-Clustering-Neighborhoods-in-Toronto.ipynb): In this notebook, I explore, segment, and cluster the neighborhoods in the city of Toronto.
+* [Hello World Capstone Project](Hello%World%Capstone%Project.ipynb): "Hello World" Notebook
+* [Segmenting and Clustering Neighborhoods in Toronto](Segmenting%and%Clustering%Neighborhoods%in%Toronto.ipynb): In this notebook, I explore, segment, and cluster the neighborhoods in the city of Toronto.
